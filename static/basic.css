@@ -1,0 +1,15 @@
+.nav {
+	text-align: center;
+}
+
+.navlist {
+	list-style-type: none;
+	padding: 0;
+	margin: auto;
+}
+
+.navlistElements {
+	width: 8rem;
+	border: 1px solid;
+	display: inline-block;
+}
